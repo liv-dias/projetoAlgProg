@@ -12,7 +12,11 @@ Logo após, deve-se escrever "./codigoMorse" e, se desejar usar um arquivo exter
 
 Modo de funcionamento do código:  
 Após o usuário colocar sua mensagem codificada, o programa irá decodifica-la e mostrar a mensagem ja pronta!  
-Depois, irá aparecer uma mensagem perguntando se deseja rodar outra decodificação ou parar por aí :)
+Depois, irá aparecer uma mensagem perguntando se deseja rodar outra decodificação ou parar por aí :)  
+
+Link para o vídeo:  
+
+https://youtu.be/5ekR3ZCZZ1c?si=xZLzEP5ZusCQyES0  
 
 
 
